@@ -1,5 +1,5 @@
 import type {NextConfig} from 'next';
-import {instrumentation} from '@genkit-ai/next';
+const {instrumentation} = require('@genkit-ai/next');
 
 const nextConfig: NextConfig = {
   /* config options here */
