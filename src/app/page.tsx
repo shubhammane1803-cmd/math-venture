@@ -53,25 +53,25 @@ export default function Home() {
           <StatCard
             title="Total Stars"
             value={user.stats.stars}
-            icon={Star}
+            icon="Star"
             color="text-yellow-400"
           />
           <StatCard
             title="Problems Solved"
             value={user.stats.solved}
-            icon={CheckCircle}
+            icon="CheckCircle"
             color="text-green-500"
           />
           <StatCard
             title="Best Streak"
             value={user.stats.streak}
-            icon={TrendingUp}
+            icon="TrendingUp"
             color="text-red-500"
           />
           <StatCard
             title="Highest Level"
             value={user.stats.level}
-            icon={Crown}
+            icon="Crown"
             color="text-purple-500"
           />
         </section>
