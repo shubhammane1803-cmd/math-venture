@@ -13,6 +13,7 @@ import {
 import Link from 'next/link';
 import { Progress } from '@/components/ui/progress';
 import { Button } from '@/components/ui/button';
+import { Card } from '@/components/ui/card';
 import { CompletionModal } from './CompletionModal';
 import { cn } from '@/lib/utils';
 import type { World } from '@/lib/types';
