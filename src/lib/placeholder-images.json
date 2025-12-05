@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "world-forest",
+      "description": "A lush green forest with sunlight filtering through the trees.",
+      "imageUrl": "https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmb3Jlc3QlMjB0cmVlc3xlbnwwfHx8fDE3NjQ4ODA1MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest trees"
+    },
+    {
+      "id": "world-ocean",
+      "description": "A vibrant underwater scene with coral reefs and fish.",
+      "imageUrl": "https://images.unsplash.com/photo-1598170256282-bfc791c0d978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxvY2VhbiUyMHVuZGVyd2F0ZXJ8ZW58MHx8fHwxNzY0OTQwODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ocean underwater"
+    },
+    {
+      "id": "world-mountain",
+      "description": "A majestic mountain range with snowy peaks.",
+      "imageUrl": "https://images.unsplash.com/photo-1615729947596-a598e5de0ab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb3VudGFpbiUyMHJhbmdlfGVufDB8fHx8MTc2NDg1NTE3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain range"
+    },
+    {
+      "id": "world-desert",
+      "description": "Vast desert dunes under a clear blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1553796661-17b7fa359f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkZXNlcnQlMjBkdW5lc3xlbnwwfHx8fDE3NjQ4NjMwMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desert dunes"
+    },
+    {
+      "id": "world-space",
+      "description": "A colorful nebula in deep space with stars.",
+      "imageUrl": "https://images.unsplash.com/photo-1715147286628-eaae87cc8196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnYWxheHklMjBuZWJ1bGF8ZW58MHx8fHwxNzY0ODMwNzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "galaxy nebula"
+    },
+    {
+      "id": "world-candy",
+      "description": "A whimsical landscape made of candy and sweets.",
+      "imageUrl": "https://images.unsplash.com/photo-1641314703743-69e354b98c7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYW5keSUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NjQ5NDA4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "candy landscape"
+    },
+    {
+      "id": "world-dinosaur",
+      "description": "A prehistoric jungle with dinosaurs roaming.",
+      "imageUrl": "https://images.unsplash.com/photo-1650643825014-812407563beb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkaW5vc2F1ciUyMGp1bmdsZXxlbnwwfHx8fDE3NjQ5NDA4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dinosaur jungle"
+    },
+    {
+      "id": "world-arctic",
+      "description": "A frozen arctic landscape with icebergs.",
+      "imageUrl": "https://images.unsplash.com/photo-1536926272468-cbd90ef4c553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcmN0aWMlMjBpY2ViZXJnfGVufDB8fHx8MTc2NDk0MDg5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "arctic iceberg"
+    },
+    {
+      "id": "world-jungle",
+      "description": "A dense jungle with a lion.",
+      "imageUrl": "https://images.unsplash.com/photo-1659292862401-05a59f177377?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxqdW5nbGUlMjBsaW9ufGVufDB8fHx8MTc2NDk0MDg5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jungle lion"
+    },
+    {
+      "id": "world-magic-castle",
+      "description": "A magical castle shimmering with light.",
+      "imageUrl": "https://images.unsplash.com/photo-1675611559364-4b3e04347077?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYWdpYyUyMGNhc3RsZXxlbnwwfHx8fDE3NjQ4Nzg4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "magic castle"
+    },
+    {
+      "id": "daily-challenge",
+      "description": "Abstract colorful shapes for daily challenge banner.",
+      "imageUrl": "https://images.unsplash.com/photo-1656427833582-b276ee575f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGNvbG9yZnVsfGVufDB8fHx8MTc2NDkzNDQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract colorful"
+    }
+  ]
 }
