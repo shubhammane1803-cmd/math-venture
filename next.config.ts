@@ -1,5 +1,4 @@
 import type {NextConfig} from 'next';
-const {instrumentation} = require('@genkit-ai/next');
 
 const nextConfig: NextConfig = {
   /* config options here */
@@ -33,9 +32,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default instrumentation(nextConfig, {
-  flows: [
-    'src/ai/flows/adaptive-problem-generation.ts',
-    'src/ai/flows/personalized-learning-suggestions.ts',
-  ],
-});
+export default nextConfig;
